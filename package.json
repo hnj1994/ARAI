@@ -1,0 +1,20 @@
+{
+  "name": "aria",
+  "version": "1.0.0",
+  "description": "> Self-hosted, AI-powered Security Operations Center platform",
+  "homepage": "https://github.com/hnj1994/ARAI#readme",
+  "bugs": {
+    "url": "https://github.com/hnj1994/ARAI/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hnj1994/ARAI.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
